@@ -1,0 +1,19 @@
+# Ignore virtual environments
+tfenv/
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.pyc
+__pycache__/
+
