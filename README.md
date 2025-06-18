@@ -66,8 +66,9 @@ Validation accuracy : 0.9519
 
 Clone this repository:
    ```bash
-   git clone https://github.com/your-username/corn-disease-detection.git
-   cd corn-disease-detection
+   git clone https://github.com/your-username/corn_plant_disease_detection.git
+   cd corn_plant_disease_detection
+ ```
 
 Install dependencies:
 
@@ -77,13 +78,13 @@ Run the script:
    python cnn_corn_disease.py
 
 🛠️ Possible Improvements
-    Add more training data for robustness
+   Add more training data for robustness
 
-    Experiment with deeper CNNs or pre-trained models
+   Experiment with deeper CNNs or pre-trained models
 
-    Deploy with Streamlit or Flask for a web interface
+   Deploy with Streamlit or Flask for a web interface
 
-    Include Grad-CAM visualization for interpretability
+   Include Grad-CAM visualization for interpretability
 
 ## ✍️ Author
 
